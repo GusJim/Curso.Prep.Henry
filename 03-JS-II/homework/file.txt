@@ -1,0 +1,21 @@
+for
+Es ciclo, es decir,  pasos para repetir  de forma automática sin tener que estar escribiendo paso por paso estas tareas
+
+&& and (y)
+Nos ayuda a hacer  tareas más exactas dentro de un ciclo
+
+|| or (o)
+
+Nos ayuda a hacer  tareas más exactas dentro de un ciclo
+
+! Negación
+
+!! Doble negación o valor real
+
+Nos muestra el valor real de una expresión booleana( Es decir que solo tiene dos posibles resultados:verdadero o falso)
+
+
+
+
+
+
